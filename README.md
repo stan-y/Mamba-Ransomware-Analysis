@@ -89,7 +89,8 @@ Requires command-line password argument with immediate termination if not provid
 ## 📞 Contact
 For questions about methodology or cybersecurity opportunities:
 
-**Stanford Junior Takura Zhuwao**  
+**Stanford Junior Takura Zhuwao**
+https://linkedin.com/in/stanford-zhuwao-08aab1243
 sjnrzhuwao@gmail.com 
 [Portfolio]
 
